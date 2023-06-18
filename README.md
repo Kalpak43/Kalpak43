@@ -6,7 +6,7 @@
  - Familiar with __C++ and OOP__ concepts. 
  - Currently polishing my skills with React.
  - Always looking forward to contribute and work on different projects.
- - Reach me on [Linkedin](https://www.linkedin.com/in/kalpak-goshikwar-1a9174235/)
+ - Reach me on [Linkedin](https://www.linkedin.com/in/kalpakgoshikwar/)
  - Other links: [Codechef](https://www.codechef.com/users/kalpak_43), [LeetCode](https://leetcode.com/goshikwarkalpak/)
 <!--
 **Kalpak43/Kalpak43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
