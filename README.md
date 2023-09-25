@@ -10,7 +10,8 @@
  - Other links: [Codechef](https://www.codechef.com/users/kalpak_43), [LeetCode](https://leetcode.com/goshikwarkalpak/)
 
      
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kalpak43&show_icons=true&theme=tokyonight)
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kalpak43&show_icons=true&theme=tokyonight)  
+  
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kalpak43&theme=tokyonight)
 
 <!--
