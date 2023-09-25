@@ -12,7 +12,8 @@
      
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kalpak43&show_icons=true&theme=tokyonight)  
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kalpak43&theme=tokyonight)  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kalpak43&theme=tokyonight)   
+  
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kalpak43&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <!--
