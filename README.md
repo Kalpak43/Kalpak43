@@ -1,37 +1,35 @@
 ### Hi there 👋
 ### I am Kalpak Goshikwar.
- - Currently pursuing __B.tech in CSE__ from G.H. Raisoni college of engineering, Nagpur.
+------
+
+## About Me ([My Website](https://kalpak-goshikwar.vercel.app/))
+ - I am a __full-stack web developer__.
+ - Final year __B.tech in CSE__ student from G.H. Raisoni college of engineering, Nagpur.
+ - __Open to Work__.
  - Interested in __building stuff__.
- - Exploring the __javascript__ world.
- - Familiar with __C++ and OOP__ concepts. 
- - Currently polishing my skills with React.
+ - Passionate on developing useful solutions.
+ - Currently exploring the __web world__.
  - Always looking forward to contribute and work on different projects.
- - Reach me on [Linkedin](https://www.linkedin.com/in/kalpakgoshikwar/)
- - Other links: [Codechef](https://www.codechef.com/users/kalpak_43), [LeetCode](https://leetcode.com/goshikwarkalpak/)
+------
 
+## Technical Skills
+ - __Programming Languages:__ C++, Javascript, Typescript, Python
+ - __Frontend Libraries / Frameworks:__ ReactJs, NextJs, Angular, Tailwind
+ - __Backend Libraries / Frameworks:__ NodeJs/Express, firebase, supabase
+ - __Databases:__ SQL, SQLite, MongoDB
+ - __Tools and Platforms:__ VS code, Figma, Git and Github
+------
+
+## Reach Out to Me via
+### [LINKEDIN](https://www.linkedin.com/in/kalpakgoshikwar/) &#124; [EMAIL](mailto:kalpakgoshikwar123@gmail.com) &#124; [WEBSITE](https://kalpak-goshikwar.vercel.app/contact-me)
+
+## Coding Profile~~s~~
+ - ### [LeetCode](https://leetcode.com/u/goshikwarkalpak/)
+------
+
+## Some more stuff
      
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kalpak43&show_icons=true&theme=tokyonight)  
-  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kalpak43&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kalpak43&show_icons=true&theme=tokyonight)  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kalpak43&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
 
-<!--
-**Kalpak43/Kalpak43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-
-
--->
-# [LINKEDIN](https://www.linkedin.com/in/kalpakgoshikwar/)
